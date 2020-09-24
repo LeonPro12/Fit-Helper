@@ -7,4 +7,4 @@ Base macro: http://www.macrodroid.com/macrostore?id=5594
 Wear OS Add-on: http://www.macrodroid.com/macrostore?id=5595
 
 You could also type "Fit Helper" in the search of the Macrodroid store.  
-![Macrodroid Search](Screenshots/Screenshot_01.jpg)
+<img src="Screenshots/Screenshot_01.jpg" height="350" title="Macrodroid Search"/>
