@@ -21,7 +21,11 @@ Do your workout.
 ### Wear OS watch
 Install the macrodroid app from the Wear OS Play Store, and select "Fit Helper (Wear OS Add-on)".  
 Start your workout as usual until you see this screen:  
-<img src="Screenshots/Screenshot_02.jpg" alt="Wear OS workout screen" height="350"/>.
+<img src="Screenshots/Screenshot_02.jpg" alt="Wear OS workout screen" height="350"/>.  
 Wait until the GPS-Signal is found. If it won't find it, wake your phone.  
 Start it, if it has found a signal and wait about 1 minute, then wake your phone and put it back into sleep mode.  
 Do your workout.
+
+
+# Something isn't working
+If something isn't working, just ask me in this thread: %PLACEHOLDER%.
