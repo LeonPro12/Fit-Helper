@@ -28,4 +28,4 @@ Do your workout.
 
 
 # Something isn't working
-If something isn't working, just ask me in this thread: %PLACEHOLDER%.
+If something isn't working, just ask me in this thread: https://www.reddit.com/r/WearOS/comments/iyxk6j/fit_helper_fix_gps_loss_problems_phone_watch.
